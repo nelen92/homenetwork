@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Pagina-1" id="nA1m_9bqUB0itmbTfJU5">
-    <mxGraphModel dx="3388" dy="2102" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1954" dy="1249" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           <mxGeometry height="74" width="74" x="93" y="363.96" as="geometry" />
         </mxCell>
         <mxCell id="9mKCJiRvXBJwjvr7Jno3-28" parent="1" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.hard_drive;fillColor=#637D8A;gradientColor=#324752;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="28" width="62" x="40" y="450" as="geometry" />
+          <mxGeometry height="28" width="62" x="54" y="488.95" as="geometry" />
         </mxCell>
         <mxCell id="9mKCJiRvXBJwjvr7Jno3-54" edge="1" parent="1" source="9mKCJiRvXBJwjvr7Jno3-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF3333;strokeWidth=2;endArrow=none;endFill=0;" target="9mKCJiRvXBJwjvr7Jno3-14">
           <mxGeometry relative="1" as="geometry" />
@@ -70,8 +70,8 @@
         <mxCell id="9mKCJiRvXBJwjvr7Jno3-51" parent="9mKCJiRvXBJwjvr7Jno3-48" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Robust 16+-digits Random Password&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="68.89" x="30" y="90.9" as="geometry" />
         </mxCell>
-        <mxCell id="9mKCJiRvXBJwjvr7Jno3-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;labelBackgroundColor=none;spacing=0;spacingBottom=-1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 700; white-space: nowrap;&quot;&gt;Toshiba 2TB HD&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: nowrap;&quot;&gt;Media&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: nowrap;&quot;&gt;Rsync PC Client On-Site Backu&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: nowrap;&quot;&gt;p&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: nowrap;&quot;&gt;RoundSync Photo Backup from Mobile&lt;/span&gt;" vertex="1">
-          <mxGeometry height="49.46" width="200" x="23" y="480" as="geometry" />
+        <mxCell id="9mKCJiRvXBJwjvr7Jno3-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;labelBackgroundColor=none;spacing=0;spacingBottom=-1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 700; white-space: nowrap;&quot;&gt;Toshiba 2TB HD &quot;NAS&quot;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: nowrap;&quot;&gt;Media&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: nowrap;&quot;&gt;Rsync PC Client On-Site Backu&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: nowrap;&quot;&gt;p&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: nowrap;&quot;&gt;RoundSync Photo Backup from Mobile&lt;/span&gt;" vertex="1">
+          <mxGeometry height="49.46" width="160" x="50" y="518.24" as="geometry" />
         </mxCell>
         <mxCell id="9mKCJiRvXBJwjvr7Jno3-58" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="49.45999999999998" width="86.25" x="-200" y="330" as="geometry" />
@@ -832,6 +832,53 @@
               <mxPoint x="-951.75" y="1055.5" />
               <mxPoint x="-951.75" y="-540" />
               <mxPoint x="355" y="-540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xMpVyF7tMJhKye9ZlxEI-11" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" value="" vertex="1">
+          <mxGeometry height="94" width="185.85" x="-192" y="441" as="geometry" />
+        </mxCell>
+        <mxCell id="xMpVyF7tMJhKye9ZlxEI-7" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="112.03999999999985" width="263.89" x="-181.99999999999997" y="428.00000000000017" as="geometry" />
+        </mxCell>
+        <mxCell id="xMpVyF7tMJhKye9ZlxEI-5" connectable="0" parent="xMpVyF7tMJhKye9ZlxEI-7" style="group" value="" vertex="1">
+          <mxGeometry height="58.48999999999984" width="263.89" as="geometry" />
+        </mxCell>
+        <mxCell id="xMpVyF7tMJhKye9ZlxEI-1" parent="xMpVyF7tMJhKye9ZlxEI-5" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.hard_drive;fillColor=#637D8A;gradientColor=#324752;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="28" width="62" x="12" y="19.029999999999887" as="geometry" />
+        </mxCell>
+        <mxCell id="xMpVyF7tMJhKye9ZlxEI-14" parent="xMpVyF7tMJhKye9ZlxEI-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;Air-gaped Backup&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="77.15" x="109.99999999999997" y="8.99999999999984" as="geometry" />
+        </mxCell>
+        <mxCell id="xMpVyF7tMJhKye9ZlxEI-2" parent="xMpVyF7tMJhKye9ZlxEI-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;labelBackgroundColor=none;spacing=0;spacingBottom=-1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 700; white-space: nowrap;&quot;&gt;Toshiba 2TB HD &quot;SDBackup&quot;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Offline - Cold Backup &quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="49.46" width="160" x="3.4999999999999716" y="42.039999999999964" as="geometry" />
+        </mxCell>
+        <mxCell id="xMpVyF7tMJhKye9ZlxEI-6" connectable="0" parent="xMpVyF7tMJhKye9ZlxEI-7" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="89.89" x="2.359999999999971" y="70.99999999999986" as="geometry" />
+        </mxCell>
+        <mxCell id="xMpVyF7tMJhKye9ZlxEI-4" parent="xMpVyF7tMJhKye9ZlxEI-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Encryption LUKS&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="68.89" x="21" as="geometry" />
+        </mxCell>
+        <mxCell id="xMpVyF7tMJhKye9ZlxEI-3" parent="xMpVyF7tMJhKye9ZlxEI-7" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security_orange;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="24.7" width="20" x="3.4999999999999716" y="78.99999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="xMpVyF7tMJhKye9ZlxEI-8" edge="1" parent="1" source="xMpVyF7tMJhKye9ZlxEI-1" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=1 4;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-245.7" y="393.3" />
+              <mxPoint x="-245.7" y="371.81" />
+              <mxPoint x="-246.53" y="346.63" />
+            </Array>
+            <mxPoint x="-111.22000000000003" y="473.54" as="sourcePoint" />
+            <mxPoint x="-198.3" y="346.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xMpVyF7tMJhKye9ZlxEI-10" edge="1" parent="1" source="xMpVyF7tMJhKye9ZlxEI-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="9mKCJiRvXBJwjvr7Jno3-212">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-168.5" y="600" />
+              <mxPoint x="-661.25" y="600" />
+              <mxPoint x="-661.25" y="-505" />
             </Array>
           </mxGeometry>
         </mxCell>
